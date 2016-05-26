@@ -1,0 +1,12 @@
+{
+  "name" : "website-using-express",
+  "version" : "0.0.1",
+  "scripts" : {
+    "start" : "node Server.js"
+  },
+  "dependencies" : {
+    "express" : "latest",
+    "mongodb": "^1.4.10",
+    "mongoose": "^4.4.10"
+  }
+}
